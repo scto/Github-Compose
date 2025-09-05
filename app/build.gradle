@@ -82,7 +82,7 @@ dependencies {
     implementation "io.insert-koin:koin-androidx-compose:3.4.2"
 
     // Ktor Client
-    def ktor_version = '2.2.3'
+    def ktor_version = '3.2.3'
     implementation "io.ktor:ktor-client-core:$ktor_version"
     implementation "io.ktor:ktor-client-android:$ktor_version"
     implementation "io.ktor:ktor-client-serialization:$ktor_version"
